@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Bodheesh_" target="blank"><img src="https://img.shields.io/twitter/follow/Bodheesh_?logo=twitter&style=for-the-badge" alt="Bodheesh_" /></a> </p>
 
-- 🔭 I’m currently working on Web Development **Social Media**
+- 🔭 I’m currently working on Website Development **Social Media**
 
 - 🌱 I’m currently learning **React js**
 
