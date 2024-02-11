@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bodheesh" alt="bodheesh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bodheesh_" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bodheesh_?logo=twitter&style=for-the-badge" alt="https://twitter.com/bodheesh_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bodheesh_" target="blank"><img src="https://img.shields.io/twitter/follow/bodheesh_?logo=twitter&style=for-the-badge" alt="bodheesh_" /></a> </p>
 
 - 🔭 I’m currently working on [Kinengo](company_project)
 
@@ -26,10 +26,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bodheesh v c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bodheesh v c" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/bodheesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bodheesh_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bodheesh-v-c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bodheesh-v-c/" height="30" width="40" /></a>
+<a href="https://twitter.com/bodheesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bodheesh_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bodheesh-v-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bodheesh-v-c" height="30" width="40" /></a>
 <a href="https://fb.com/bodheesh bose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bodheesh bose" height="30" width="40" /></a>
 <a href="https://instagram.com/bodhi_techtalks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bodhi_techtalks" height="30" width="40" /></a>
+<a href="https://hashnode.com/@bodheesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bodheesh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bodhi_techtalks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bodhi_techtalks" height="30" width="40" /></a>
 </p>
 
