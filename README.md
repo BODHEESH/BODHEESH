@@ -132,16 +132,18 @@ Here are some open-source developer tools and libraries I've built and published
 
 ---
 
-### 📫 Connect with Me
 
-<p align="left">
-<a href="https://twitter.com/bodheesh_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bodheesh-v-c" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/bodhi_techtalks" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://hashnode.com/@bodheesh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bodhi_techtalks" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-<a href="https://codepen.io/bodheesh%20v%20c" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" /></a>
-</p>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🏅 Achievements & Highlights
+
+- 🚀 Published **9 npm packages** with a combined **3K+ downloads**
+- 💻 Built 50+ full-stack projects, including enterprise-level systems
+- 🌟 Active open-source contributor and technical blogger
+- 🎤 Speaker at local developer meetups on Node.js & MERN Stack
+- 🏆 Increased backend performance by **50%** in production systems
+
+
 
 ---
 
@@ -152,6 +154,22 @@ Here are some open-source developer tools and libraries I've built and published
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bodheesh&show_icons=true&locale=en" alt="bodheesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bodheesh&" alt="bodheesh" /></p> 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=bodheesh&theme=onedark&column=6&margin-w=15&margin-h=15)
+
+![Snake animation](https://github.com/bodheesh/bodheesh/blob/output/github-contribution-grid-snake.svg)
+
+
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://twitter.com/bodheesh_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bodheesh-v-c" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/bodhi_techtalks" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://hashnode.com/@bodheesh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bodhi_techtalks" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+<a href="https://codepen.io/bodheesh%20v%20c" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" /></a>
+</p>
 
 ---
 
