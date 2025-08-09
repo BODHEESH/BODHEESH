@@ -157,8 +157,6 @@ Here are some open-source developer tools and libraries I've built and published
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bodheesh&theme=onedark&column=6&margin-w=15&margin-h=15)
 
-![Snake animation](https://github.com/bodheesh/bodheesh/blob/output/github-contribution-grid-snake.svg)
-
 
 ### 📫 Connect with Me
 
