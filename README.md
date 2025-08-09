@@ -5,13 +5,16 @@
     <img src="https://komarev.com/ghpvc/?username=bodheesh&label=Profile%20views&color=0e75b6&style=flat" alt="bodheesh" />
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=bodheesh" alt="bodheesh" />
-    </a>
+<!-- Option 1: GitHub Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bodheesh&theme=react-dark)
+
+<!-- Option 6: Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%26+React+Expert+%E2%9A%A1;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Building+Amazing+Applications+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
 </p>
 
----
 
 ### 👨‍💻 About Me
 
@@ -28,12 +31,27 @@
 
 ### 🛠 Tech Stack & Tools
 
-<!-- programming languages -->
-<!-- (Icons omitted for brevity — you already have them correctly added in your original readme) -->
+<!-- Option 7: Simple Tech Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
+<!-- Option 4: Skill Icons/Tech Stack -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,aws,docker,mongodb,express,git,python,typescript" alt="Skills" />
+</p>
+
 
 ### 📦 Published npm Packages
+
+<!-- NPM_DOWNLOADS_START -->
+![Total NPM Downloads](https://img.shields.io/badge/Total%20Downloads-3,351+-blue?style=for-the-badge&logo=npm)
 
 Here are some open-source developer tools and libraries I've built and published on npm:
 
@@ -41,7 +59,6 @@ Here are some open-source developer tools and libraries I've built and published
 |--------|-------------|-----------|------|
 | 🧪 `bodhi-form-validations` | A simple and reusable form validation utility for modern apps | ![Downloads](https://img.shields.io/npm/dt/bodhi-form-validations?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/bodhi-form-validations) |
 | ⚙️ `create-bodhi-node-app` | CLI tool to scaffold a production-ready Node.js boilerplate | ![Downloads](https://img.shields.io/npm/dt/create-bodhi-node-app?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/create-bodhi-node-app) |
-| ⚙️ `@bodheesh/create-bodhi-node-app` | Scoped version of Node.js boilerplate CLI | ![Downloads](https://img.shields.io/npm/dt/@bodheesh/create-bodhi-node-app?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/@bodheesh/create-bodhi-node-app) |
 | 🔁 `create-bodhi-node-boilerplate` | Backend app starter with JWT, env configs, and folder structure | ![Downloads](https://img.shields.io/npm/dt/create-bodhi-node-boilerplate?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/create-bodhi-node-boilerplate) |
 | 📊 `bodhi-node-profiler` | Lightweight profiler to analyze async tasks in Node.js apps | ![Downloads](https://img.shields.io/npm/dt/bodhi-node-profiler?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/bodhi-node-profiler) |
 | 🧵 `bodhi-async-batch` | Process async tasks in batches with controlled concurrency | ![Downloads](https://img.shields.io/npm/dt/bodhi-async-batch?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/bodhi-async-batch) |
@@ -52,6 +69,26 @@ Here are some open-source developer tools and libraries I've built and published
 > ✨ I'm actively maintaining and improving these tools. Contributions welcome!
 
 ---
+
+<!-- Option 2: GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bodheesh&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</p>
+
+<!-- Option 3: GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bodheesh&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+
+<!-- Option 5: Language Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodheesh&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+
+---
+
 
 ### 🚀 Current Work & Projects
 
@@ -91,14 +128,14 @@ Here are some open-source developer tools and libraries I've built and published
 </p>
 
 ---
-
+<!-- 
 ### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodheesh&show_icons=true&locale=en&layout=compact" alt="bodheesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bodheesh&show_icons=true&locale=en" alt="bodheesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bodheesh&" alt="bodheesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bodheesh&" alt="bodheesh" /></p> -->
 
 ---
 
