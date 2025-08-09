@@ -35,18 +35,19 @@
 
 ### 📦 Published npm Packages
 
-Here are some open-source developer tools and libraries I’ve built and published on npm:
+Here are some open-source developer tools and libraries I've built and published on npm:
 
-| Package | Description | Link |
-|--------|-------------|------|
-| 🧪 `bodhi-form-validations` | A simple and reusable form validation utility for modern apps | [npm](https://www.npmjs.com/package/bodhi-form-validations) |
-| ⚙️ `create-bodhi-node-app` | CLI tool to scaffold a production-ready Node.js boilerplate | [npm](https://www.npmjs.com/package/create-bodhi-node-app) |
-| 🔁 `create-bodhi-node-boilerplate` | Backend app starter with JWT, env configs, and folder structure | [npm](https://www.npmjs.com/package/create-bodhi-node-boilerplate) |
-| 📊 `bodhi-node-profiler` | Lightweight profiler to analyze async tasks in Node.js apps | [npm](https://www.npmjs.com/package/bodhi-node-profiler) |
-| 🧵 `bodhi-async-batch` | Process async tasks in batches with controlled concurrency | [npm](https://www.npmjs.com/package/bodhi-async-batch) |
-| 💬 `bodhi-commit-genius-js` | AI-powered CLI to auto-generate semantic commit messages | [npm](https://www.npmjs.com/package/bodhi-commit-genius-js) |
-| 📝 `auto-readme-updater` | CLI to auto-generate or update README files from templates | [npm](https://www.npmjs.com/package/auto-readme-updater) |
-| ⏳ `bodhi-throttle` | Utility to throttle function calls and control rate limiting | [npm](https://www.npmjs.com/package/bodhi-throttle) |
+| Package | Description | Downloads | Link |
+|--------|-------------|-----------|------|
+| 🧪 `bodhi-form-validations` | A simple and reusable form validation utility for modern apps | ![Downloads](https://img.shields.io/npm/dt/bodhi-form-validations?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/bodhi-form-validations) |
+| ⚙️ `create-bodhi-node-app` | CLI tool to scaffold a production-ready Node.js boilerplate | ![Downloads](https://img.shields.io/npm/dt/create-bodhi-node-app?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/create-bodhi-node-app) |
+| ⚙️ `@bodheesh/create-bodhi-node-app` | Scoped version of Node.js boilerplate CLI | ![Downloads](https://img.shields.io/npm/dt/@bodheesh/create-bodhi-node-app?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/@bodheesh/create-bodhi-node-app) |
+| 🔁 `create-bodhi-node-boilerplate` | Backend app starter with JWT, env configs, and folder structure | ![Downloads](https://img.shields.io/npm/dt/create-bodhi-node-boilerplate?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/create-bodhi-node-boilerplate) |
+| 📊 `bodhi-node-profiler` | Lightweight profiler to analyze async tasks in Node.js apps | ![Downloads](https://img.shields.io/npm/dt/bodhi-node-profiler?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/bodhi-node-profiler) |
+| 🧵 `bodhi-async-batch` | Process async tasks in batches with controlled concurrency | ![Downloads](https://img.shields.io/npm/dt/bodhi-async-batch?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/bodhi-async-batch) |
+| 💬 `bodhi-commit-genius-js` | AI-powered CLI to auto-generate semantic commit messages | ![Downloads](https://img.shields.io/npm/dt/bodhi-commit-genius-js?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/bodhi-commit-genius-js) |
+| 📝 `auto-readme-updater` | CLI to auto-generate or update README files from templates | ![Downloads](https://img.shields.io/npm/dt/auto-readme-updater?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/auto-readme-updater) |
+| ⏳ `bodhi-throttle` | Utility to throttle function calls and control rate limiting | ![Downloads](https://img.shields.io/npm/dt/bodhi-throttle?style=flat-square&color=blue) | [npm](https://www.npmjs.com/package/bodhi-throttle) |
 
 > ✨ I'm actively maintaining and improving these tools. Contributions welcome!
 
